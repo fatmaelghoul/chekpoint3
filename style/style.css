@@ -1,0 +1,43 @@
+
+body { background ; background-image:url(../image/TOO203.webp)
+
+}
+.homelink {
+    background-color: antiquewhite;
+    margin-top: 1%;
+border-width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+img{
+    width: 100%;
+}
+#logo{
+    color: rgb(192, 30, 71);
+    font-style: italic;
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h5,h1,p{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 5pxl; 
+}
+button{
+    border-radius: ;
+    font-family: fantasy;
+    color: brown;
+}
+#Minu{
+    border-width: ;
+    margin-right: ;
+}
+section {background-color: rgb(240, 245, 245);
+    position: relative;
+}
+footer{ 
+    background-color: rgb(174, 218, 236);
+    font-family: 'Courier New', Courier, monospace;
+    font: bolder;
+    color: beige;
+}
